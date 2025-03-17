@@ -4,6 +4,17 @@ body {
   text-align: center;
 }
 
+.logo {
+  max-width: 200px; /
+  height: auto;    
+}
+
+
+.menu-container img {
+  width: 50%;       
+  height: auto;     
+}
+
 .quiz-container {
   width: 70%;
   margin: 40px auto;

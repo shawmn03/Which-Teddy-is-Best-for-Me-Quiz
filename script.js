@@ -22,11 +22,11 @@ const quizData = [
 ];
 
 const teddyResults = {
-  "Anxiety": { name: "Brave Bunny", image: "BraveBunny.jpg" },
-  "Autism": { name: "Dependable Dog", image: "DependableDog.jpg" },
-  "Trauma": { name: "Caring Cat", image: "CaringCat.jpg" },
-  "Depression": { name: "Buddy Bear", image: "BuddyBear.jpg" },
-  "Behavioral": { name: "Mindful Monkey", image: "MindfulMonkey.jpg" }
+  "Anxiety": { name: "Brave Bunny", image: "BraveBunny.png" },
+  "Autism": { name: "Dependable Dog", image: "DependableDog.png" },
+  "Trauma": { name: "Caring Cat", image: "CaringCat.png" },
+  "Depression": { name: "Buddy Bear", image: "BuddyBear.png" },
+  "Behavioral": { name: "Mindful Monkey", image: "MindfulMonkey.png" }
 };
 
 function buildQuiz() {

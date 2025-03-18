@@ -105,7 +105,7 @@ function getResult() {
   // Displaying the result with image and name
   document.getElementById("result").innerHTML = `
     <h2>Your perfect Teddy is: </h2>
-    <img src="${result.image}" style="width: 200px; height: auto; border-radius: 8px;">
+    <img src="${result.image}" style="width: 600px; height: auto; border-radius: 8px;">
   `;
 }
 
